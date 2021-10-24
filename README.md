@@ -1,3 +1,4 @@
 # README
 
-This is the finance-tracker application from the Complete Ruby on Rails course.
+Changed the git email for local in the terminal.
+git config --local user.email "email@example.com"
